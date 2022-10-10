@@ -1,0 +1,99 @@
+#bishkek {
+    width: 53%;
+    height: 74%;
+    margin-left: 20px;
+    margin-top: 270px;
+}
+
+#winter {
+    margin-top: 270px;
+    position: relative;
+    top: -460.5px;   
+    width: 40%;
+}
+
+#ucanight {
+    width:40%;
+    position: relative;
+    top: -506px;
+    left: 625px;
+}
+
+#spring {
+    width: 40%;
+    position: relative;
+    bottom: 252px;
+    left: 168px;
+    height: 249px;
+}
+
+#ucawinter {
+    width: 60%;
+    margin-left: 20px;
+    position: relative;
+    top: -253px;
+    height: 60%;
+}
+
+#mountainswinter {
+    position: relative;
+    width: 32.6%;
+    top: 1249px;
+    left: 712px;
+    height: 93.3%;
+    position: absolute;
+}
+
+body {
+    background-color:rgb(252, 243, 228);
+}
+
+footer {
+    border-top: 1px solid black;
+    margin-bottom: 100px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.startertxt {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 20px;
+    margin-top: 50px;
+    
+}
+
+.followingtxt {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float: left;
+    margin-top: 60px;
+    margin-right: 35px;
+   
+}
+
+#onlytxt {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+#contactme {
+    position: absolute;
+    border: none;
+    border-radius: 100px;
+    background-color: rgb(211, 144, 67);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    left: 585px;
+    min-height: 40px;
+    min-width: 150px;
+}
+
+#insta {
+    position: relative;
+    left: 600px;
+
+}
+
+#facebook {
+    position: relative;
+    left: 500px;
+}
